@@ -9,7 +9,7 @@
 
 <h1 style="text-align:center"  >XiePeng's blog</h1>
 <div style="text-align:center">
-   <button type="button" onclick="toCreate()">发表新博客</button>
+   <button type="button" onclick="toCreate()">发布新博客</button>
 </div>
 @foreach($articles as $article)
 

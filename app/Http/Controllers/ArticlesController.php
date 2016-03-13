@@ -47,7 +47,8 @@ function isMobile(){
 		}
 //		return view('articles.create');
 //    	return view('articles.index',compact('articles'));
-    	 
+//    	return view('articles.index',compact('articles'));
+
     }
 
     public function show($id){

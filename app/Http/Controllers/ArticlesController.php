@@ -38,13 +38,14 @@ function isMobile(){
 
     public function index(){
 		//where子句还可以使用scopePublish()方法代替
-	//	$articles=Article::latest()->get() ;
-//		if($this->isMobile()){
-//			return $articles;
-//		}else{
-//			return view('articles.index',compact('articles'));
-//		}
-		return view('articles.create');
+
+		$articles=Article::latest()->get() ;
+		if($this->isMobile()){
+			return $articles;
+		}else{
+			return view('articles.index',compact('articles'));
+		}
+//		return view('articles.create');
 //    	return view('articles.index',compact('articles'));
     	 
     }

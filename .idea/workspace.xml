@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7fb232b-8f67-490b-8ba1-65d4bbd8810a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/create.blade.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/articles/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/articles/index.blade.php" />
     </list>
     <ignored path="learnlaravel.iws" />
@@ -93,13 +89,13 @@
       <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/articles/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32097003">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.27817404">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="e#192#217#0#HTML" expanded="true" />
                 <element signature="e#245#270#0#HTML" expanded="true" />
-                <element signature="e#379#405#0#HTML" expanded="true" />
-                <element signature="e#489#515#0#HTML" expanded="true" />
+                <element signature="e#376#402#0#HTML" expanded="true" />
+                <element signature="e#486#512#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -539,8 +535,8 @@
           <folding>
             <element signature="e#192#217#0#HTML" expanded="true" />
             <element signature="e#245#270#0#HTML" expanded="true" />
-            <element signature="e#379#405#0#HTML" expanded="true" />
-            <element signature="e#489#515#0#HTML" expanded="true" />
+            <element signature="e#376#402#0#HTML" expanded="true" />
+            <element signature="e#486#512#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -881,13 +877,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/articles/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32097003">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.27817404">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="e#192#217#0#HTML" expanded="true" />
             <element signature="e#245#270#0#HTML" expanded="true" />
-            <element signature="e#379#405#0#HTML" expanded="true" />
-            <element signature="e#489#515#0#HTML" expanded="true" />
+            <element signature="e#376#402#0#HTML" expanded="true" />
+            <element signature="e#486#512#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
